@@ -1,0 +1,86 @@
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexCentered {
+  align-items: center;
+}
+
+.frontPage {
+  display: 'flex-column';
+}
+
+.textPadding {
+  padding: 20px;
+}
+
+.wonoland {
+  font-family: Wonoland Park;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+}
+
+.neu5land {
+  font-family: Neu5Land;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+}
+
+.happyCamperBox {
+  margin-top: 30px;
+  background: #DCD7B9;
+  border: 3px solid #FFFFFF;
+  box-sizing: border-box;
+  padding: 15px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.bulletPointsBox {
+  margin-top: 40px;
+  width: 430px;
+  text-align: left;
+  background: #A0A49C;
+  border: 3px solid #FFFFFF;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.bulletPointsText {
+  padding: 15px;
+  font-size: 28px;
+  color: #F1EDD8;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.descriptionLine {
+  font-family: Neu5Land;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 36px;
+  color: #2F82BD;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.happyCamperText {
+  font-size: 96px;
+  color: #167CC5;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tryBeta {
+  margin-top: 40px;
+  background: #DCD7B9;
+  padding: 10px;
+  border-radius: 2px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.betaVersionText {
+  font-size: 32px;
+  color: #167CC5;
+}

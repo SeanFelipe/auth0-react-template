@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Neu5Land';
+    src: url('../assets/fonts/subset-Neu5Land-Bold.woff2') format('woff2'),
+        url('../assets/fonts/subset-Neu5Land-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neu5Land';
+    src: url('../assets/fonts/subset-Neu5Land-Normal.woff2') format('woff2'),
+        url('../assets/fonts/subset-Neu5Land-Normal.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Wonoland Park';
+    src: url('../assets/fonts/subset-WonolandPark.woff2') format('woff2'),
+        url('../assets/fonts/subset-WonolandPark.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,30 @@
+.shapesSandboxMain {
+  border: 2px solid green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.shapesRectangle {
+  /*
+  flex: 4;
+  padding: 40px;
+  */
+  z-index: 10;
+}
+
+.shapesCircle {
+  /*
+  flex: 4;
+  padding: 40px;
+  */
+  z-index: 20;
+}
+
+.shapesRectangle2 {
+  flex: 3;
+  border: 2px solid green;
+  padding: 40px;
+}
